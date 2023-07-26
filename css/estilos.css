@@ -1,0 +1,64 @@
+/*Header*/
+
+header{
+   border-bottom: 1px solid rgb(43, 55, 223) ; 
+}
+
+.logo{
+    width: 5rem;
+}
+
+.fuente{
+    font-size: 0.7cm;
+    padding-left: 1cm;
+    text-transform: uppercase;
+}
+
+/*Hero*/
+.textohero{
+    color: rgb(214, 218, 221); 
+}
+.fuente li a:hover{
+    background-color: rgb(77, 77, 255); 
+}
+.fondo{
+    background-image: url("../img/fondo.png");
+}
+
+/*Contacto*/
+
+.contacto{
+    background-color: rgb(70, 70, 248);
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1rem;
+}
+.contacto h2{
+    font-size: 2rem;
+    
+}
+.red{
+    padding-left: 0.4cm;
+    text-align: center;
+}
+.wpp{
+    width: 45px;
+    height: 45px; 
+}
+.todo{
+    text-align: center;
+}
+
+.box{
+    padding-left: 0.4cm ;
+    font-size: larger;
+    margin-top: 0.4cm;
+    text-align: center;
+}
+.fondouno{
+    display: block; 
+  margin: 0 auto;
+  max-width: 100%; 
+  height: auto;
+}
