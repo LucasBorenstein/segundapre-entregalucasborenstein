@@ -1,7 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
 /*Header*/
 
 header{
    border-bottom: 1px solid rgb(43, 55, 223) ; 
+}
+.container{
+    margin-top: 5rem;
 }
 
 .logo{
@@ -36,7 +45,7 @@ header{
 }
 .contacto h2{
     font-size: 2rem;
-    
+    text-align: center;
 }
 .red{
     padding-left: 0.4cm;
@@ -61,4 +70,9 @@ header{
   margin: 0 auto;
   max-width: 100%; 
   height: auto;
+}
+
+/*Informacion*/
+.info{
+    text-align: center;
 }
